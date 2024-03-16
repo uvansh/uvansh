@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @uvansh
-- 👀 I’m interested in web development
+- 👋 Hi, I’m Vansh
+- 👀 I’m interested in web development with React Tailwindcss and Next JS
 - 🌱 I’m currently learning js
 - 💞️ I’m looking to collaborate on wd
 - 📫 How to reach me uuvansh@gmail.com
