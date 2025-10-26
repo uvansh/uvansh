@@ -1,4 +1,4 @@
-# 👋 Hi, I'm uvansh!
+# 👋 Hi, I'm Vansh!
 
 **Graduated College Student | ML/AI/GenAI Enthusiast | Next.js, TypeScript & Python Developer**
 
