@@ -2,10 +2,10 @@
 
 **Graduated College Student | ML/AI/GenAI Enthusiast | Next.js, TypeScript & Python Developer**
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=uvansh&show_icons=true&theme=radical)
 ![Profile Views](https://komarev.com/ghpvc/?username=uvansh&color=blue)
 ![Open to Work](https://img.shields.io/badge/Open%20to-Job%20Opportunities-brightgreen)
 ![GitHub Followers](https://img.shields.io/github/followers/uvansh?label=Followers&style=social)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=uvansh&show_icons=true&theme=radical)
 
 ---
 
@@ -35,11 +35,11 @@ Hey there! I'm a passionate developer specialized in Machine Learning, Artificia
 
 ## 🌟 Favorite Projects
 
-- [HodoBot_Fullstack](#)  
+- [HodoBot_Fullstack](https://github.com/uvansh/HodoBot_Fullstack)  
   *A full-stack project blending AI and user experience. Bots that actually listen... sometimes!*
-- [DSA](#)  
+- [DSA](https://github.com/uvansh/DSA_Questions)  
   *Data Structures & Algorithms repository for interviews, learning, and making sense of spaghetti code.*
-- [Nestio](#)  
+- [Nestio](https://nestio-hotel-booking-b9syf7qco-vanshs-projects-b6af83b9.vercel.app/)  
   *NestJS-based project for scalable backend magic. It's like Hogwarts, but for APIs.*
 
 ---
@@ -53,9 +53,9 @@ Hey there! I'm a passionate developer specialized in Machine Learning, Artificia
 
 ## 📫 Find Me Here
 
-- [LinkedIn](#) <!-- Add your LinkedIn URL here -->
-- [Twitter](#) <!-- Add your Twitter handle here -->
-- [Portfolio](#) <!-- Add your Portfolio site here -->
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="vansh-uttam-3b8377250" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/vansh-uttam-3b8377250?trk=profile-badge">Vansh Uttam</a></div>
+- [X.com](https://x.com/codedbyvom) <!-- Add your Twitter handle here -->
+- [Portfolio](https://vansh-dev-portfolio.vercel.app/) <!-- Add your Portfolio site here -->
 
 ---
 
