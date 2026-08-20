@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vansh!
 
-**Graduated College Student | ML/AI/GenAI Enthusiast | Next.js, TypeScript & Python Developer**
+**Graduated with CS and Maths | ML/AI/GenAI Enthusiast | Next.js, TypeScript & Python Developer**
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=uvansh&show_icons=true&theme=radical)
 ![Profile Views](https://komarev.com/ghpvc/?username=uvansh&color=blue)
