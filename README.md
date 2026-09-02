@@ -26,7 +26,7 @@ Hey there! I'm a passionate developer specialized in Machine Learning, Artificia
   <img src="https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge&logo=hugging-face&logoColor=black" />
   <img src="https://img.shields.io/badge/LangChain-00B4D8?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
 <div/>
 
 ---
