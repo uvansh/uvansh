@@ -51,7 +51,7 @@ Hey there! I'm a passionate developer specialized in Machine Learning, Artificia
 
 ## 📫 Find Me Here
 
--<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="vansh-uttam-3b8377250" data-version="v1">
+- <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="vansh-uttam-3b8377250" data-version="v1">
   <a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/vansh-uttam-3b8377250?trk=profile-badge">Vansh Uttam</a>
 </div>
 
