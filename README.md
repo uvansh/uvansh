@@ -38,7 +38,7 @@ Hey there! I'm a passionate developer specialized in Machine Learning, Artificia
 - [DSA](https://github.com/uvansh/DSA_Questions)  
   *Data Structures & Algorithms repository for interviews, learning, and making sense of spaghetti code.*
 - [Nestio](https://nestio-hotel-booking-b9syf7qco-vanshs-projects-b6af83b9.vercel.app/)  
-  *NestJS-based project for scalable backend magic. It's like Hogwarts, but for APIs.*
+  *NextJS-based project for scalable backend magic. It's like Hogwarts, but for APIs.*
 
 ---
 
