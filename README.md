@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vansh!
 
-**Graduated with CS and Maths | ML/AI/GenAI Enthusiast | Next.js, TypeScript & Python Developer**
+**Graduated with CS and Maths | ML/AI/GenAI Enthusiast | Backend Developer**
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=uvansh&show_icons=true&theme=radical)
 ![Profile Views](https://komarev.com/ghpvc/?username=uvansh&color=blue)
@@ -11,10 +11,10 @@
 
 ## 🚀 About Me
 
-Hey there! I'm a passionate developer specialized in Machine Learning, Artificial Intelligence, Generative AI, and full-stack web development with Next.js, TypeScript, and Python. I love building things that merge intelligence and interactivity.
+Hey there! I'm a passionate developer specialized in Machine Learning, Artificial Intelligence, Generative AI, and backend development of LLM application. I love building things that merge intelligence and interactivity.
 
 - 🎓 Graduated with a focus on ML, AI, and GenAI
-- 💻 Main stack: Next.js, TypeScript, Python
+- 💻 Main stack: FastAPI, Pytorch, Huggingface, Langchain, LangSmith.
 - 🤖 Always tinkering with new ideas and projects
 
 ---
